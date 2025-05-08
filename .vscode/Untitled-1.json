@@ -1,0 +1,20 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": true,
+    "github.copilot.inlineSuggest.enable": true,
+    "editor.suggestSelection": "first",
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showSnippets": true,
+    "editor.suggest.showStatusBar": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.showIcons": true,
+    "editor.suggest.insertMode": "insert",
+    "editor.suggest.showWords": true
+}
