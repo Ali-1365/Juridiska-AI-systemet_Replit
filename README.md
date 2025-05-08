@@ -1,2 +1,2 @@
-# Juridiska-AI-systemet_Replit
+# Juridiska-AI-systemet
 AI-baserat rättssystem för advokater och domstol
